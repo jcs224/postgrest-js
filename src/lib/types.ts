@@ -1,4 +1,4 @@
-import fetch from '@jcs224/cross-fetch-testing'
+import fetch from 'jcs224-cross-fetch-testing'
 
 /**
  * Error format

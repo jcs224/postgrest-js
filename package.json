@@ -1,6 +1,6 @@
 {
   "name": "@jcs224/postgrest-js-testing",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Isomorphic PostgREST client",
   "keywords": [
     "postgrest",
@@ -30,7 +30,7 @@
     "docs:json": "typedoc --json docs/spec.json --mode modules --includeDeclarations --excludeExternals"
   },
   "dependencies": {
-    "@jcs224/cross-fetch-testing": "^3.1.5"
+    "jcs224-cross-fetch-testing": "^3.1.6"
   },
   "devDependencies": {
     "@types/jest": "^26.0.13",
